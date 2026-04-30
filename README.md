@@ -23,3 +23,38 @@
 [![Facebook](https://img.shields.io/badge/Facebook-OsmSoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/OsmSoft/)
 
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+class JoseCalderon:
+    name       = "José Calderón"
+    role       = "Founder & Lead Odoo Consultant"
+    companies  = ["OSM SOFT LLC (USA)", "OSM SOFT SRL (Argentina)"]
+    partner    = "Official Odoo Partner ✓"
+    experience = "8+ years implementing Odoo ERP"
+    markets    = ["🇭🇳 Honduras", "🇦🇷 Argentina", "🇨🇱 Chile", "🇵🇦 Panama", "🇺🇸 USA"]
+    languages  = {"Spanish": "Native", "English": "Professional"}
+    contact    = "hello@osm-soft.io"
+    website    = "https://www.osm-soft.io"
+```
+
+---
+
+## 🚀 Services
+
+> **"Conectamos tu operación con inteligencia."**
+> We help SMBs across Latin America and the USA transform operations through intelligent ERP solutions.
+
+<br/>
+
+| Service | Details |
+|:---|:---|
+| 🏗️ **Odoo ERP Implementation** | SaaS · SH · Community — v14 through v18 |
+| 🤖 **AI Automation Agents** | Custom agents integrated with Odoo via API |
+| 🔗 **eCommerce Integrations** | WooCommerce · MercadoLibre · Amazon |
+| 📦 **Custom Module Development** | Python · XML · QWeb · REST API integrations |
+| 🗂️ **Data Migration** | From legacy systems & Excel to Odoo |
+| 🎓 **Training & Support** | Role-based training + post go-live support |
