@@ -95,3 +95,43 @@ class JoseCalderon:
 | Factura Electrónica | e-Factura | DTE | e-Factura | — |
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jcalderon-osm&show_icons=true&hide_border=true&bg_color=0F0621&title_color=9B59D0&icon_color=5B2D8E&text_color=ffffff&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcalderon-osm&layout=compact&hide_border=true&bg_color=0F0621&title_color=9B59D0&text_color=ffffff&langs_count=8" alt="Top Languages" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jcalderon-osm&hide_border=true&background=0F0621&ring=9B59D0&fire=9B59D0&currStreakLabel=9B59D0&sideLabels=ffffff&dates=c084fc&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="500"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jcalderon-osm&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find my work useful, a star is always appreciated!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59D0,50:391A5E,100:0F0621&height=120&section=footer" alt="Footer" width="100%"/>
+
+</div>
