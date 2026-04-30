@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0621,50:391A5E,100:9B59D0&height=220&section=header&text=Jos%C3%A9%20Calder%C3%B3n&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20Lead%20Odoo%20Consultant%20%7C%20Official%20Odoo%20Partner&descAlignY=58&descColor=c084fc&animation=fadeIn" alt="Header" width="100%"/>
+[![](https://img.shields.io/badge/OSM%20SOFT-LLC%20%26%20SRL-0F0621?style=for-the-badge&logoColor=white)](https://www.osm-soft.io)[![](https://img.shields.io/badge/Founder%20%26%20Lead-Odoo%20Consultant-391A5E?style=for-the-badge&logoColor=white)](https://www.osm-soft.io)[![](https://img.shields.io/badge/Official%20Odoo-Partner%20%E2%9C%93-5B2D8E?style=for-the-badge&logo=odoo&logoColor=white)](https://www.osm-soft.io)[![](https://img.shields.io/badge/8%2B%20Years-LATAM%20%26%20USA-9B59D0?style=for-the-badge&logoColor=white)](https://www.osm-soft.io)
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=20&duration=3000&pause=1000&color=9B59D0&center=true&vCenter=true&width=620&lines=8%2B+Years+Implementing+Odoo+ERP;Official+Odoo+Partner+%7C+LATAM+%26+USA;Custom+Modules+%7C+AI+Agents+%7C+Integrations;Honduras+%E2%80%A2+Argentina+%E2%80%A2+Chile+%E2%80%A2+Panama+%E2%80%A2+USA" alt="Typing SVG" />
+<h1>🔮 José Calderón</h1>
 
-<br/>
+<h3>Founder & Lead Odoo Consultant</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jcalderon-osm&color=9B59D0&style=for-the-badge&label=Profile+Views)
+[![Official Odoo Partner](https://img.shields.io/badge/Official_Odoo_Partner-%E2%9C%93_Certified-9B59D0?style=for-the-badge&logo=odoo&logoColor=white)](https://www.osm-soft.io)
+[![ERP Experience](https://img.shields.io/badge/ERP_Experience-8%2B_Years-5B2D8E?style=for-the-badge&logoColor=white)](https://www.osm-soft.io)
+[![Active Markets](https://img.shields.io/badge/Active_Markets-LATAM_%26_USA-391A5E?style=for-the-badge&logoColor=white)](https://www.osm-soft.io)
 
 <br/><br/>
 
@@ -132,6 +134,6 @@ class JoseCalderon:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59D0,50:391A5E,100:0F0621&height=120&section=footer" alt="Footer" width="100%"/>
+[![](https://img.shields.io/badge/OSM%20SOFT-LLC%20%26%20SRL-9B59D0?style=for-the-badge&logoColor=white)](https://www.osm-soft.io)[![](https://img.shields.io/badge/Email-hello%40osm--soft.io-5B2D8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@osm-soft.io)[![](https://img.shields.io/badge/Website-osm--soft.io-391A5E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.osm-soft.io)[![](https://img.shields.io/badge/%C2%A9%202025-OSM_SOFT-0F0621?style=for-the-badge&logoColor=white)](https://www.osm-soft.io)
 
 </div>
