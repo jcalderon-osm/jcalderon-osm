@@ -58,3 +58,40 @@ class JoseCalderon:
 | 📦 **Custom Module Development** | Python · XML · QWeb · REST API integrations |
 | 🗂️ **Data Migration** | From legacy systems & Excel to Odoo |
 | 🎓 **Training & Support** | Role-based training + post go-live support |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logoColor=white)
+![QWeb](https://img.shields.io/badge/QWeb-9B59D0?style=for-the-badge&logoColor=white)
+
+<br/>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🌎 Markets & Fiscal Expertise
+
+<div align="center">
+
+| 🇭🇳 Honduras | 🇦🇷 Argentina | 🇨🇱 Chile | 🇵🇦 Panama | 🇺🇸 USA |
+|:---:|:---:|:---:|:---:|:---:|
+| **Headquarters** | **OSM SOFT SRL** | Active Market | Active Market | **OSM SOFT LLC** |
+| SAR · ISV | AFIP · ARCA | SII | DGI · ITBMS | IRS |
+| Factura Electrónica | e-Factura | DTE | e-Factura | — |
+
+</div>
