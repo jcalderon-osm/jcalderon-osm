@@ -1,16 +1,23 @@
-## Hi there 👋
+# José Calderón · OSM SOFT 🟣
 
-<!--
-**jcalderon-osm/jcalderon-osm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Official Odoo Partner** | 8+ years implementing Odoo across LATAM
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Stack:** Odoo · Python · PostgreSQL · XML · QWeb · AI Automation · n8n  
+🌎 **Markets:** Honduras · Argentina · Chile · Panama · USA  
+🏢 **Company:** [OSM SOFT LLC](https://www.osm-soft.io)  
+📧 **Contact:** hello@osm-soft.io  
+
+---
+
+### What I do
+- ✅ Odoo ERP Implementation (SH, Community, Online · v14–18)
+- ✅ Custom module development & migrations
+- ✅ eCommerce integrations (WooCommerce, MercadoLibre, Amazon)
+- ✅ AI automation agents connected to Odoo via API
+- ✅ Multi-company setups across LATAM
+
+---
+
+🔗 [osm-soft.io](https://www.osm-soft.io)
